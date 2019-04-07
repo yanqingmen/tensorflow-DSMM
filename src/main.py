@@ -241,7 +241,6 @@ def main(options):
 
 
 if __name__ == "__main__":
-
     parser = OptionParser()
     options, args = parse_args(parser)
     main(options)
